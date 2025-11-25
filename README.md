@@ -86,6 +86,8 @@ DELAY_ms(10);
 # Output:
 
 <img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/a91c6132-951f-431d-8d36-d4c4787ed559" />
+
+
 # Result:
 Thus,an embedded C program is written in order to interface PWM with LPC1768.
 
